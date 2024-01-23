@@ -1,0 +1,52 @@
+html{
+    background-color: blanchedalmond;
+    font-family:"Poppins" , sans-serif;
+
+}
+
+.ingredient-list{
+    text-align: center;
+    list-style-type: disc;
+    display: flex;
+    list-style-position: inside;
+    
+}
+
+.cookie-image{
+   display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+
+.recipe-title{
+    text-align: center;
+    color:rgb(109, 7, 37);
+   
+}
+
+.top-of-the-cookie{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    margin-right:132px;
+}
+
+.ingredient-list{
+    list-style-position: inside;
+    text-align: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ .title{
+    color:red;
+}
+
+.recipe{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

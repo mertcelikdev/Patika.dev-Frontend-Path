@@ -1,0 +1,49 @@
+body{
+    background-color: blanchedalmond;
+    font-family:"Poppins" , sans-serif;
+}
+
+nav{
+    font-family:"Poppins" , sans-serif;
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+    margin:0;
+    padding : 0;
+    height: 15vh;
+    
+}
+nav ul{
+    list-style: none;
+    display: flex;
+}
+
+nav li {
+    margin: 0 10px;
+}
+    
+h2{
+    background-color : aqua;
+    display:inline-block;
+   margin-left: 43%;
+}
+
+.images{
+    height: 200px;
+    width : 200px;
+    display: center;
+    margin-top: 2px;
+    margin-left:43%;
+    margin-right: 50%;
+    border:10px;
+}
+
+.about-us {
+ 
+    max-width: 800px; /* Paragrafın maksimum genişliği */
+    margin: 0 auto;   /* Paragrafı ortala */
+    text-align: justify; /* Paragraf içeriğini iki kenara yasla */
+    display: -webkit-box;
+    -webkit-line-clamp: 2; /* Paragrafı maksimum 2 satıra sınırla */
+    -webkit-box-orient: vertical;
+}

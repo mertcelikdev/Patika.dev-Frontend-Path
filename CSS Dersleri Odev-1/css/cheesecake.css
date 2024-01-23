@@ -1,0 +1,31 @@
+body{
+    background-color: blanchedalmond;
+    text-align: center;
+    font-family:"Poppins" , sans-serif;
+}
+
+h2{
+    color:orange;
+    text-align: center;
+}
+
+
+.ingredient-list{
+    text-align: center;
+    list-style-position: inside;
+    font-family: "Poppins" , sans-serif;
+}
+
+.recipe{
+    display: flex;
+    list-style-position:inside;
+    text-align: left;
+    margin-left: 400px;
+    margin-right:400px;
+}
+
+.recipe-title{
+    text-align: center;
+    color :orange;
+
+}
